@@ -59,7 +59,46 @@ export const Projects = () => {
                             </div>
                           </div>
                         </Col>
-                        <Col md={6}>
+                         <Col md={6}>
+                          <div className="proj-imgbx">
+                            <img src={'./proj1.PNG'} alt="Dream Tax Academy" />
+                            <div className="proj-txtx">
+                              <h4>DREAM TAX ACADEMY</h4>
+                              <span style={{
+                                display: 'block',
+                                wordWrap: 'break-word',
+                                whiteSpace: 'pre-line',
+                                width: '80%',
+                                alignSelf: 'center',
+                                margin: '0 auto',
+                                marginBottom: '2rem'
+                              }}>
+                                It's provide high quality training in Tax and Revenue Administration through Taxation Technical Course, Tax workshops and seminars, sharpening tax awareness to the taxpayers.
+                              </span>
+                              <button className="vvd">
+                                <span>
+                                  <a
+                                    href="https://dta.rw/"
+                                    style={{
+                                      textDecoration: 'none',
+                                      color: 'white',
+                                      padding: '10px',
+                                      background: 'transparent',
+                                      border: '1px solid #fff',
+                                      borderRadius: '30px',
+                                      marginTop: '5rem'
+                                    }}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                  >
+                                    Visit Website
+                                  </a>
+                                </span>
+                              </button>
+                            </div>
+                          </div>
+                        </Col>
+                        {/* <Col md={6}>
                           <div className="proj-imgbx">
                             <img src={'./proj2.png'} alt="Project 2" />
                             <div className="proj-txtx">
@@ -97,7 +136,7 @@ export const Projects = () => {
                               </button>
                             </div>
                           </div>
-                        </Col>
+                        </Col> */}
                       </Row>
                     </Tab.Pane>
                     <Tab.Pane eventKey="section">
