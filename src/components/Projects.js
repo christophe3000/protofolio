@@ -63,7 +63,7 @@ export const Projects = () => {
                           <div className="proj-imgbx">
                             <img src={'./proj2.PNG'} alt="Dream Tax Academy" />
                             <div className="proj-txtx">
-                              <h4>DREAM TAX ACADEMY</h4>
+                              <h4>INCUTI ORGANIZATION</h4>
                               <span style={{
                                 display: 'block',
                                 wordWrap: 'break-word',
@@ -73,12 +73,12 @@ export const Projects = () => {
                                 margin: '0 auto',
                                 marginBottom: '2rem'
                               }}>
-                                It's provide high quality training in Tax and Revenue Administration through Taxation Technical Course, Tax workshops and seminars, sharpening tax awareness to the taxpayers.
+                                Short description for project 2 goes here. You can update this with your actual project details.
                               </span>
                               <button className="vvd">
                                 <span>
                                   <a
-                                    href="https://dta.rw/"
+                                    href="https://inshuti2002.org/"
                                     style={{
                                       textDecoration: 'none',
                                       color: 'white',
