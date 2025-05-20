@@ -98,45 +98,7 @@ export const Projects = () => {
                             </div>
                           </div>
                         </Col>
-                        {/* <Col md={6}>
-                          <div className="proj-imgbx">
-                            <img src={'./proj2.png'} alt="Project 2" />
-                            <div className="proj-txtx">
-                              <h4>INCUTI ORGANIZATION</h4>
-                              <span style={{
-                                display: 'block',
-                                wordWrap: 'break-word',
-                                whiteSpace: 'pre-line',
-                                width: '80%',
-                                alignSelf: 'center',
-                                margin: '0 auto',
-                                marginBottom: '2rem'
-                              }}>
-                                Short description for project 2 goes here. You can update this with your actual project details.
-                              </span>
-                              <button className="vvd">
-                                <span>
-                                  <a
-                                    href="https://inshuti2002.org/"
-                                    style={{
-                                      textDecoration: 'none',
-                                      color: 'white',
-                                      padding: '10px',
-                                      background: 'transparent',
-                                      border: '1px solid #fff',
-                                      borderRadius: '30px',
-                                      marginTop: '5rem'
-                                    }}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                  >
-                                    Visit Website
-                                  </a>
-                                </span>
-                              </button>
-                            </div>
-                          </div>
-                        </Col> */}
+                  
                       </Row>
                     </Tab.Pane>
                     <Tab.Pane eventKey="section">
