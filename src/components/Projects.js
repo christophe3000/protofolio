@@ -61,7 +61,7 @@ export const Projects = () => {
                         </Col>
                         <Col md={6}>
                           <div className="proj-imgbx">
-                            <img src={'./web2.png'} alt="Project 2" />
+                            <img src={'./proj2.png'} alt="Project 2" />
                             <div className="proj-txtx">
                               <h4>INCUTI ORGANIZATION</h4>
                               <span style={{
